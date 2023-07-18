@@ -1,0 +1,10 @@
+.ScoreCard{
+    position: sticky;
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: white;
+    top: 100px;
+    right: 200px;
+    color: black;
+    padding: 50px;
+    border-radius: 5px;
+}

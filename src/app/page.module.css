@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Source+Sans+Pro:wght@300;600&display=swap");
+.form {
+  border-radius: 5px;
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #2b3252;
+  color: #fad744;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.btn {
+  background-color: #fad744;
+  color: #2b3252;
+  padding: 15px;
+  margin: 50px 45%;
+  border-radius: 7px;
+}
+.heading {
+  color: #fad744;
+  font-family: Caveat Brush, cursive;
+  text-align: center;
+  text-shadow: 2px 1px 1px black;
+}
+.flexContainer{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
